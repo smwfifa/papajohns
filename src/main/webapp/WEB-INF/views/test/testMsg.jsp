@@ -3,4 +3,5 @@
 <script>
 window.alert('${msg}');
 location.href='index.do';
+//테스트 주석
 </script>
