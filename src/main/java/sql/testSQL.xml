@@ -6,4 +6,7 @@
 	<insert id="testInsert" parameterType="papa.test.model.TestDTO">
 		insert into test(name, num1, num2) values(#{name}, #{num1},#{num2})
 	</insert>
+	<select id="xyList" resultType="yong.xy.xyDTO">
+  select * from test
+  </select>
 </mapper>
