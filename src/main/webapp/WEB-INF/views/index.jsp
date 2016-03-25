@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-PapaJohns 프로젝트에 오신걸 환영합니다.Test 용도입니다.
+PapaJohns 프로젝트에 오신걸 환영합니다.Test 2번째 용도입니다.
 
 <form name="test" action="test.do">
 <input type="text" name="name">
