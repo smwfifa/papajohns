@@ -3,6 +3,6 @@
 <script>
 window.alert('${msg}');
 location.href='index.do';
-//테스트 주석2222222222222ㅇㅇㅇㅇ
+//테스트 주석2222222222222ㅇㅇㅇㅇ123
 //주석22222222222222
 </script>
