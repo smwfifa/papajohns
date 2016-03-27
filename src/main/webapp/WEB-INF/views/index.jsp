@@ -8,6 +8,7 @@
 </head>
 <body>
 PapaJohns 프로젝트에 오신걸 환영합니다.Test 2번째 용도입니다.
+영상찍고있어요.
 
 <form name="test" action="test.do">
 <input type="text" name="name">
